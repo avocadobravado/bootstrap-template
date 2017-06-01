@@ -1,0 +1,91 @@
+/* WIREFRAME TESTING */
+
+/* This section will create dashed borders around all elements, uncomment the below code when building layout */
+
+/*:not(body):not(html) {
+  box-sizing:border-box;
+  border:1px dashed #000;
+}
+
+*/
+
+/* END WIREFRAME TESTING */
+
+
+/* GLOBAL STYLES */
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+body {
+  color: #222;
+
+  /*Apply Google Font*/
+  font-family: 'Lora', serif;
+
+  /* Full background */
+  /*background: url('../img/unsplash01.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+  /* Default Google font stylings for all H tags */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+}
+
+  /*Link styles*/
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:active {
+  color: inherit;
+}
+
+ /* Clearfix */
+
+.clearfix {
+content: "";
+display: table;
+clear: both;
+}
+
+
+/* MEDIA QUERIES */
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 600px) {
+
+}
+
+
+/* Medium Devices */
+@media only screen and (min-width : 992px) {
+
+}
+
+
+/* Large Devices, Wide Screens */
+ @media only screen and (min-width : 1200px) {
+
+ }
