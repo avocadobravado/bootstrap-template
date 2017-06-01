@@ -26,7 +26,7 @@ body {
   color: #222;
 
   /*Apply Google Font*/
-  font-family: 'Lora', serif;
+  font-family: sans-serif;
 
   /* Full background */
   /*background: url('../img/unsplash01.jpg') no-repeat center center fixed;
@@ -37,12 +37,12 @@ body {
 }
 
   /* Default Google font stylings for all H tags */
-
+/*
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-}
+}*/
 
   /*Link styles*/
 
@@ -70,18 +70,52 @@ display: table;
 clear: both;
 }
 
+/*NAVBAR*/
+
+.navbar {
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+/*CAROUSEL*/
+
+#carousel-example-generic {
+  background: #c0c0c0;
+}
+
+#carousel-example-generic img {
+  margin: 0 auto;
+  width: 40%;
+}
+
+/*ROW STYLES*/
+.row:nth-of-type(3) {
+  margin-top: 30px;
+}
+
+.row:nth-of-type(4) img {
+  width: 100%;
+  margin: 15px auto;
+}
+
+
 
 /* MEDIA QUERIES */
 
 /* Small Devices, Tablets */
-@media only screen and (min-width : 600px) {
-
+@media only screen and (max-width : 600px) {
+  #carousel-example-generic img {
+    width: 80%;
+  }
 }
 
 
 /* Medium Devices */
-@media only screen and (min-width : 992px) {
-
+@media only screen and (max-width : 992px) {
+  #carousel-example-generic img {
+    width: 70%;
+  }
 }
 
 

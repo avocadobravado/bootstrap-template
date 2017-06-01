@@ -1,8 +1,8 @@
-# _Title_
+# _Bootstrap Template_
 
-#### Week [ADD] Project - [CLASS]
+#### Week 2 Project - CSS
 
-#### By **Rose Sponseller and PAIR, DATE, 2017**
+#### By **Joe Parsley and Rose Sponseller, June 1, 2017**
 
 ## Description
 
@@ -11,16 +11,16 @@
 ## Setup/Installation Requirements
 
 * Open CMD/Terminal
-* git clone `https://github.com/avocadobravado/REPO`
+* git clone `https://github.com/avocadobravado/bootstrap-template`
 * Open index.html file in a browser such as Google Chrome
 
 OR...
 
-* View on gh-pages at [https://avocadobravado.github.io/REPO](https://avocadobravado.github.io/REPO)
+* View on gh-pages at [https://avocadobravado.github.io/bootstrap-template](https://avocadobravado.github.io/bootstrap-template)
 
 ## Screenshot of Project
 
-![screenshot of project](https://github.com/avocadobravado/REPO/blob/master/NAME.png?raw=true)
+![screenshot of project](https://github.com/avocadobravado/bootstrap-template/blob/master/img/scs.png?raw=true)
 
 ## How to Use
 
@@ -45,6 +45,7 @@ OR...
 
 * Font Awesome
 * Google Fonts
+* Bootstrap
 
 ## Acknowledgements
 
@@ -54,4 +55,4 @@ OR...
 
 This project is licensed under the MIT License
 
-**_Rose Sponseller and PAIR_** Copyright (c) 2017
+**_Joe Parsley and Rose Sponseller_** Copyright (c) 2017
