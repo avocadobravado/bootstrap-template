@@ -6,7 +6,7 @@
 
 ## Description
 
-
+This site is a replica of a Bootstrap template available at `http://blackrockdigital.github.io/startbootstrap-modern-business/`. For this project, we practiced the Bootstrap grid by changing various breakpoints.
 
 ## Setup/Installation Requirements
 
@@ -22,13 +22,11 @@ OR...
 
 ![screenshot of project](https://github.com/avocadobravado/bootstrap-template/blob/master/img/scs.png?raw=true)
 
+![screenshot of project](https://github.com/avocadobravado/bootstrap-template/blob/master/img/scs02.png?raw=true)
+
 ## How to Use
 
 * Open index.html in a web browser such as Google Chrome
-
-## Known Bugs
-
-*
 
 ## Support and contact details
 
@@ -46,6 +44,7 @@ OR...
 * Font Awesome
 * Google Fonts
 * Bootstrap
+* jQuery
 
 ## Acknowledgements
 
